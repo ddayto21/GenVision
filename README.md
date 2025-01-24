@@ -1,4 +1,4 @@
-![GenVision banner](assets/images/genvision-banner.png)
+![GenVision banner](assets/images/genvision.png)
 
 **GenVision** is an open-source AI platform that empowers users to generate high-quality, visually stunning images from text prompts with ease and precision. Leveraging cutting-edge generative AI models like Stable Diffusion, GenVision provides a sleek, intuitive interface for experimentation, creativity, and innovation.
 
